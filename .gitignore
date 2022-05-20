@@ -1,0 +1,7 @@
+Javascript/**/dist/
+.DS_Store
+yarn.lock
+package-lock.json
+.watchman-cookie*
+yarn-error.log
+Javascript/**/node_modules
