@@ -4,6 +4,9 @@
     "rootDir": "./src",
     "target": "ES5",
     "module": "commonjs",
-    "sourceMap": true
+    "sourceMap": true,
+    "lib": [
+      "ESNext"
+    ]
   }
 }
